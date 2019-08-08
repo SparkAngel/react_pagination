@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,YACE,sBACF,CAEA,YACE,iBACF","file":"main.04771751.chunk.css","sourcesContent":[".pagination {\n  justify-content: center;\n}\n\n.list-group {\n  text-align: center;\n}\n"]}
